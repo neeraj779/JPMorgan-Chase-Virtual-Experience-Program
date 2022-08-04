@@ -18,3 +18,5 @@ This repository contains submitted patch files of three tasks assigned by JPMorg
 ---
 #### Certificate of Completion
 
+
+![R5iK7HMxJGBgaSbvk_J P +Morgan_ZrikgeQpDeFG4sMNT_1658664919705_completion_certificate_pages-to-jpg-0001](https://user-images.githubusercontent.com/85169876/182900536-67e898b4-9d42-43eb-a406-40c644943964.jpg)
