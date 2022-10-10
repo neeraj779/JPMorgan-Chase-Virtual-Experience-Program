@@ -1,4 +1,4 @@
-# JPMorgan-Chase-Virtual-Internship
+# JPMorgan Chase Virtual Experience Program
 This repository contains submitted patch files of three tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
 ---
